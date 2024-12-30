@@ -5,11 +5,11 @@ venv/
 MachineLearningRating_v3.csv
 
 # Ignore DVC metadata
-.dvc/
+#.dvc/
 
 # Ignore DVC storage directory (make sure the directory is correctly specified)
-dvc_storage/
-UsersHpVideosdvc_storage/
+#dvc_storage/
+#UsersHpVideosdvc_storage/
 
 # Ignore large files and directories that are not required by Git
 **/*.dvc
