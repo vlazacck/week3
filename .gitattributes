@@ -1,3 +1,5 @@
 UsersHp/Videos/dvc_storage/files/md5/* filter=lfs diff=lfs merge=lfs -text
 UserhpVideosdvc_storage filter=lfs diff=lfs merge=lfs -text
 UsersHpVideosdvc_storage/files/md5/35/837b45833744be7779dd2ee25add9b filter=lfs diff=lfs merge=lfs -text
+UsersHpVideosdvc_storage/files/md5/* filter=lfs diff=lfs merge=lfs -text
+UsersHpVideosdvc_storage/files/md5/**/* filter=lfs diff=lfs merge=lfs -text
